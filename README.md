@@ -10,6 +10,6 @@ I build clean, responsive and user-friendly websites with modern web technologie
 - ⚡ Fast & Performance-Focused Websites
 - 🎨 Modern UI/UX
 
-🌐 Portfolio: https://rakshadev.netlify.app
+🌐 Portfolio: https://rakshadev.me
 
 📩 Available for freelance web development projects.
