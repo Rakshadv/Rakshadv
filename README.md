@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Raksha 👋
 
-<!--
-**Rakshadv/Rakshadv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | Modern, Responsive & High-Performance Websites
 
-Here are some ideas to get you started:
+I build clean, responsive and user-friendly websites with modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 HTML • CSS • JavaScript
+- ⚛️ React • Three.js
+- 📱 Responsive & Mobile-Friendly Design
+- ⚡ Fast & Performance-Focused Websites
+- 🎨 Modern UI/UX
+
+🌐 Portfolio: https://rakshadev.netlify.app
+
+📩 Available for freelance web development projects.
